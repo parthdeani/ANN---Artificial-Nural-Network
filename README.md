@@ -1,5 +1,5 @@
 # ANN---Artificial-Nural-Network
-🔹  ANN-1.ipynb
+**🔹  ANN-1.ipynb**
 
 -> This file builds a basic artificial neural network (ANN) to classify images from the Fashion MNIST dataset, which contains grayscale images of clothing items (like shirts, shoes, etc.). The key steps are:
 
@@ -12,7 +12,7 @@
 -> Finally, the model is tested on new images to check how accurately it predicts.
 
 
-🔹ANN-2.ipynb
+**🔹ANN-2.ipynb**
 
 
 -> This file builds upon the previous model and includes performance analysis and visualization:
@@ -26,8 +26,8 @@
 -> This helps understand the model’s strengths and weaknesses more clearly.
 
 
-🔹 ANN-3.ipynb
--> This file goes a step further by introducing model tuning and data splitting:
+**🔹 ANN-3.ipynb
+**-> This file goes a step further by introducing model tuning and data splitting:
 
 -> Instead of using the default data split, it manually splits the dataset into training and testing parts.
 
