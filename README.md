@@ -26,8 +26,8 @@
 -> This helps understand the model’s strengths and weaknesses more clearly.
 
 
-**🔹 ANN-3.ipynb
-**-> This file goes a step further by introducing model tuning and data splitting:
+**🔹 ANN-3.ipynb **
+-> This file goes a step further by introducing model tuning and data splitting:
 
 -> Instead of using the default data split, it manually splits the dataset into training and testing parts.
 
